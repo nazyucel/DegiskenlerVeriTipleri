@@ -16,12 +16,12 @@ namespace DeğişkenlerVeriTipleri
 
 
 
-            string name = "Salih"; 
-            string surname = "Taniyici";
+            string name = "Naz"; 
+            string surname = "İskendr";
             string fullName = name + " " + surname;
             string str = null;
-            char n = 'S'; // 2 byte
-            char s = 'T';
+            char n = 'N'; // 2 byte
+            char s = 'İ';
 
             // 
 
